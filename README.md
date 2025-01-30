@@ -1,5 +1,10 @@
 # html051
-forras: szit.hu
+Szerző: Sallai András
+Copyright © 2020, Sallai András
+Szerkesztve: 2020-2024
+Licenc: CC BY-SA 4.0
+Web: https://szit.hu
+
 Töltse le a weboldalt, ügyeljen arra, hogy index.html nevű fájlba legyen mentve.
 
 Végezze el a következő feladatokat:
