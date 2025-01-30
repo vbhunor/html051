@@ -1,11 +1,11 @@
 # html051
-Szerző: Sallai András
-Copyright © 2020, Sallai András
-Szerkesztve: 2020-2024
-Licenc: CC BY-SA 4.0
-Web: https://szit.hu
+Szerző: Sallai András <br>
+Copyright © 2020, Sallai András<br>
+Szerkesztve: 2020-2024<br>
+Licenc: CC BY-SA 4.0<br>
+Web: https://szit.hu<br>
 
-Töltse le a weboldalt, ügyeljen arra, hogy index.html nevű fájlba legyen mentve.
+Töltse le a weboldalt, ügyeljen arra, hogy index.html nevű fájlba legyen mentve.<br>
 
 Végezze el a következő feladatokat:
 <ol>
